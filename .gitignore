@@ -1,0 +1,20 @@
+*.class
+*.log
+.java-version
+build/
+target/
+test-output/
+.DS_Store
+
+#IDE specific
+.settings/
+.project
+.cache
+.classpath
+.lib
+
+#App properties files
+*.properties
+*.cfg.xml
+hazelcast.xml
+logback.xml
